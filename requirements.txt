@@ -1,0 +1,10 @@
+flask
+pymongo
+bcrypt
+Flask-Mail
+itsdangerous
+reportlab
+requests
+flask-cors
+python-dotenv
+Authlib
